@@ -31,6 +31,14 @@
 
 ### **2023.02.08 ~ 2022.03.10**
 
+## 📽️ 시연영상(click!)
+<div align="center">
+                   
+  [![Video Label](https://user-images.githubusercontent.com/95831345/224591636-5caab4de-b386-4e63-8b76-2060ec28dc7d.png)](https://youtu.be/eZOMo9yXRo8?t=0s)
+                   
+</div>
+
+
 <br>
 
 ## 👥 Team members
